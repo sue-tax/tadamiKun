@@ -1,0 +1,15 @@
+# 帳票ごとの設定,ウィンドウの横幅,ウィンドウの縦幅,１行の高さ,ウィンドゥの表示位置（横）,ウィンドゥの表示位置（縦）,行の色指定,フォント名,フォントサイズ,"normal,bold","roman,italic","normal,underline","normal,overstrike"
+メイン,1000,450,0,10,10,#DDCCEE,ＭＳ 明朝,10,normal,roman,normal,normal
+科目残高表,500,800,22,30,30,#DDCCEE,ＭＳ 明朝,9,normal,roman,normal,normal
+補助残高表,600,700,22,50,50,#FFEE88,ＭＳ 明朝,9,normal,roman,normal,normal
+消費税元帳,0,0,24,70,70,#FFCC22,ＭＳ 明朝,9,normal,roman,normal,normal
+消費税元帳（抽出）,0,0,24,85,85,#FFD9B3,ＭＳ 明朝,9,normal,roman,normal,normal
+仕訳帳,0,0,24,110,110,#DDFFFF,ＭＳ 明朝,9,normal,roman,normal,normal
+仕訳帳（抽出）,0,0,24,130,130,#EEFFFF,ＭＳ 明朝,9,normal,roman,normal,normal
+振替伝票,0,0,28,170,170,#BBBBBB,ＭＳ 明朝,9,normal,roman,normal,normal
+総勘定元帳,0,0,24,145,145,#FF9999,ＭＳ 明朝,9,normal,roman,normal,normal
+補助元帳,0,0,24,185,185,#99FFAA,ＭＳ 明朝,9,normal,roman,normal,normal
+総勘定元帳（抽出）,0,0,24,160,160,#FFCCCC,ＭＳ 明朝,9,normal,roman,normal,normal
+補助元帳（抽出）,0,0,24,200,200,#DDFFEE,ＭＳ 明朝,9,normal,roman,normal,normal
+# 複数の列を結合したときの区切り,,,,,,,,,,,,
+区切り記号,"""_""",,,,,,,,,,,
